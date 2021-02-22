@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/machine-translation-presentation/static/css/main.1a5d6683.chunk.css",
+    "main.js": "/machine-translation-presentation/static/js/main.d678f836.chunk.js",
+    "main.js.map": "/machine-translation-presentation/static/js/main.d678f836.chunk.js.map",
+    "runtime-main.js": "/machine-translation-presentation/static/js/runtime-main.66d0f594.js",
+    "runtime-main.js.map": "/machine-translation-presentation/static/js/runtime-main.66d0f594.js.map",
+    "static/css/2.48eec6da.chunk.css": "/machine-translation-presentation/static/css/2.48eec6da.chunk.css",
+    "static/js/2.830360d6.chunk.js": "/machine-translation-presentation/static/js/2.830360d6.chunk.js",
+    "static/js/2.830360d6.chunk.js.map": "/machine-translation-presentation/static/js/2.830360d6.chunk.js.map",
+    "index.html": "/machine-translation-presentation/index.html",
+    "static/css/2.48eec6da.chunk.css.map": "/machine-translation-presentation/static/css/2.48eec6da.chunk.css.map",
+    "static/css/main.1a5d6683.chunk.css.map": "/machine-translation-presentation/static/css/main.1a5d6683.chunk.css.map",
+    "static/js/2.830360d6.chunk.js.LICENSE.txt": "/machine-translation-presentation/static/js/2.830360d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66d0f594.js",
+    "static/css/2.48eec6da.chunk.css",
+    "static/js/2.830360d6.chunk.js",
+    "static/css/main.1a5d6683.chunk.css",
+    "static/js/main.d678f836.chunk.js"
+  ]
+}
